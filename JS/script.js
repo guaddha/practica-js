@@ -21,3 +21,13 @@ function suma(num1, num2) {
 console.log(suma(num1, num2));
 //#endregion suma
 
+
+//#region resta
+let numero1 = 60;
+let numero2 = 50;
+function resta(numero1, numero2) {
+    let rest = numero1 - numero2;
+    return rest;
+}
+console.log(resta(numero1, numero2));
+//#endregion resta
